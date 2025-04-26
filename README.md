@@ -1,7 +1,5 @@
 # ClickUp Addon for Elementor
 
-![ClickUp + Elementor](https://user-images.githubusercontent.com/96265013/178159595-52c9aafc-f5dc-43f0-9b0c-40e4f5cc8bd0.png)
-
 [![WordPress Plugin Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://wordpress.org/plugins/clickup-addon-elementor/)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0)
 [![Tested WP Version](https://img.shields.io/badge/WordPress-6.8-success.svg)](https://wordpress.org/plugins/clickup-addon-elementor/)
@@ -60,7 +58,10 @@ The ClickUp Addon for Elementor allows you to seamlessly integrate your Elemento
 5. **Open** WordPress admin, go to Elementor > ClickUp Integration
 6. **Paste** your API key and click "Verify & Save"
 
-![API Key Setup](https://elementorexperts.com/wp-content/uploads/2024/04/clickup-api-key-setup.jpg)
+### API Documentation
+
+For developers who want to understand the underlying API integration, please refer to the [ClickUp API Documentation](https://developer.clickup.com/docs/authentication#personal-token) for more details about authentication and available endpoints.
+
 
 ### Form Configuration
 
@@ -71,8 +72,6 @@ The ClickUp Addon for Elementor allows you to seamlessly integrate your Elemento
 5. **Select** your workspace, space, and list (for tasks)
 6. **Configure** the task/document name, description, and other fields
 7. **Save** your changes
-
-![Form Configuration](https://elementorexperts.com/wp-content/uploads/2024/04/clickup-form-action.jpg)
 
 ## 🧩 Field Mapping
 

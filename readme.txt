@@ -61,6 +61,11 @@ We specialize in creating custom Elementor addons and solutions to help business
 5. In WordPress, go to Elementor > ClickUp Integration
 6. Paste your API key and save
 
+= API Documentation =
+
+For developers who want to understand the underlying API integration, please refer to the [ClickUp API Documentation](https://developer.clickup.com/docs/authentication#personal-token) for more details about authentication and available endpoints.
+
+
 = Form Configuration =
 
 1. Edit an Elementor form
