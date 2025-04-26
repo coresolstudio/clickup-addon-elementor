@@ -11,6 +11,9 @@
  * Domain Path: /languages
  * Elementor tested up to: 3.17.0
  * Elementor Pro tested up to: 3.17.0
+ * Requires at least: 5.6
+ * Tested up to: 6.8
+ * Requires PHP: 8.3
  *
  * ------------------------------------------------------------------------
  * Copyright 2024 Hassan Ali | Elementor Experts

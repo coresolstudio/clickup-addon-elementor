@@ -4,7 +4,7 @@
 
 [![WordPress Plugin Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://wordpress.org/plugins/clickup-addon-elementor/)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0)
-[![Tested WP Version](https://img.shields.io/badge/WordPress-6.4-success.svg)](https://wordpress.org/plugins/clickup-addon-elementor/)
+[![Tested WP Version](https://img.shields.io/badge/WordPress-6.8-success.svg)](https://wordpress.org/plugins/clickup-addon-elementor/)
 [![Required Elementor Version](https://img.shields.io/badge/Elementor-3.0+-success.svg)](https://wordpress.org/plugins/elementor/)
 
 Connect your Elementor Forms with ClickUp to automatically create tasks and documents from form submissions.
@@ -43,10 +43,10 @@ The ClickUp Addon for Elementor allows you to seamlessly integrate your Elemento
 
 ## 🔧 Requirements
 
-- WordPress 5.6+
+- WordPress 5.6+ (Compatible with WordPress 6.8)
 - Elementor 3.0+
 - Elementor Pro 3.0+
-- PHP 7.4+
+- PHP 8.3+
 - Active ClickUp account
 
 ## ⚙️ Configuration
