@@ -1,0 +1,35 @@
+# Copyright (C) 2024 Hassan Ali | Elementor Experts
+# This file is distributed under the same license as the ClickUp Addon - Elementor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ClickUp Addon - Elementor 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/clickup-addon-elementor\n"
+"POT-Creation-Date: 2024-01-01T10:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-01-01T10:00:00+00:00\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: clickup-addon-elementor\n"
+
+#. Plugin Name of the plugin
+msgid "ClickUp Addon - Elementor"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://elementorexperts.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrates Elementor Forms with ClickUp, allowing you to create tasks, documents, and manage projects directly from your form submissions."
+msgstr ""
+
+#. Author of the plugin
+msgid "Hassan Ali | Elementor Experts"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://elementorexperts.com"
+msgstr "" 

@@ -1,0 +1,88 @@
+/**
+ * ClickUp Elementor Addon Admin Styles
+ */
+
+/* Settings page styles */
+.clickup-elementor-settings-content {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.clickup-elementor-settings-main {
+    flex: 2;
+    min-width: 500px;
+    margin-right: 20px;
+}
+
+.clickup-elementor-settings-sidebar {
+    flex: 1;
+    min-width: 300px;
+}
+
+.clickup-elementor-box {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.clickup-elementor-box h3 {
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+#clickup_elementor_verify_result {
+    margin-left: 10px;
+    font-weight: 500;
+}
+
+/* Elementor editor styles */
+.elementor-control .clickup-elementor-workspace-select,
+.elementor-control .clickup-elementor-space-select,
+.elementor-control .clickup-elementor-list-select,
+.elementor-control .clickup-elementor-status-select {
+    position: relative;
+}
+
+.elementor-control .clickup-elementor-workspace-select::after,
+.elementor-control .clickup-elementor-space-select::after,
+.elementor-control .clickup-elementor-list-select::after,
+.elementor-control .clickup-elementor-status-select::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    pointer-events: none;
+    transition: background-color 0.2s;
+}
+
+.elementor-control .clickup-elementor-workspace-select.loading::after,
+.elementor-control .clickup-elementor-space-select.loading::after,
+.elementor-control .clickup-elementor-list-select.loading::after,
+.elementor-control .clickup-elementor-status-select.loading::after {
+    background-color: rgba(255, 255, 255, 0.5);
+    pointer-events: auto;
+}
+
+.elementor-control .select2-container--default .select2-selection--single {
+    border-color: #d5dadf;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 782px) {
+    .clickup-elementor-settings-content {
+        flex-direction: column;
+    }
+    
+    .clickup-elementor-settings-main,
+    .clickup-elementor-settings-sidebar {
+        min-width: 100%;
+        margin-right: 0;
+    }
+} 
